@@ -1,8 +1,8 @@
-PWD c:/Users/Lenovo/Desktop/大学资料/大二下/美赛模板
+PWD e:/code/VSCode/AmericanCompetition/AmericanCompetition
 INPUT e:/texlive/2025/texmf.cnf
 INPUT e:/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT e:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Lenovo/Desktop/大学资料/大二下/美赛模板/mcmthesis-demo.tex
+INPUT e:/code/VSCode/AmericanCompetition/AmericanCompetition/mcmthesis-demo.tex
 OUTPUT mcmthesis-demo.log
 INPUT ./mcmthesis.cls
 INPUT mcmthesis.cls
