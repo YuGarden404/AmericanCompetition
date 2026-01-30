@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1769700541.51061 "e:/code/VSCode/AmericanCompetition/AmericanCompetition/mcmthesis-demo.tex" "mcmthesis-demo.pdf" "mcmthesis-demo" 1769700542.76139 0
+["pdflatex"] 1769734436.50718 "e:/code/VSCode/AmericanCompetition/AmericanCompetition/mcmthesis-demo.tex" "mcmthesis-demo.pdf" "mcmthesis-demo" 1769734438.41387 0
   "code/mcmthesis-matlab1.m" 1769700506 210 85a5d87496a269d2df36a0b391613a70 ""
   "code/mcmthesis-sudoku.cpp" 1769700506 847 8e46a15e9b6cabfe145dc3e886e0a890 ""
-  "e:/code/VSCode/AmericanCompetition/AmericanCompetition/mcmthesis-demo.tex" 1769700506 6545 9746c729bdd6427040cb41f508b16276 ""
+  "e:/code/VSCode/AmericanCompetition/AmericanCompetition/mcmthesis-demo.tex" 1769734433 6552 3a5929546832b170b770907046f029f2 ""
   "e:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1769486482 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "e:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1769486605 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "e:/texlive/2025/texmf-dist/fonts/tfm/adobe/courier/pcrb8r.tfm" 1769486385 1292 3059476c50a24578715759f22652f3d0 ""
@@ -201,10 +201,10 @@
   "e:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1769487980 1980256 06a3d5db21c6b2fce7495811492542e6 ""
   "e:/texlive/2025/texmf.cnf" 1769487806 713 e69b156964470283e0530f5060668171 ""
   "figures/mcmthesis-aaa.eps" 1769700506 458067 0292347d89fcc11b2fd4cfd67307e029 ""
-  "mcmthesis-demo.aux" 1769700542 2635 ed32d7f98e50b751973f6f06d96aeb91 "pdflatex"
-  "mcmthesis-demo.out" 1769700542 1971 976e749f0d83502bce4f03abe24441d8 "pdflatex"
-  "mcmthesis-demo.tex" 1769700506 6545 9746c729bdd6427040cb41f508b16276 ""
-  "mcmthesis-demo.toc" 1769700542 1048 7b57466f27bb2dd00ab3c14a05965e27 "pdflatex"
+  "mcmthesis-demo.aux" 1769734438 2643 d30bb6280de1fba0ec2107fb7c448dba "pdflatex"
+  "mcmthesis-demo.out" 1769734438 2003 a10b282ba2d5b8c3b0752fd0abfa29c8 "pdflatex"
+  "mcmthesis-demo.tex" 1769734433 6552 3a5929546832b170b770907046f029f2 ""
+  "mcmthesis-demo.toc" 1769734438 1055 7d6454ecf5af113cc75a323ee3d0a8c3 "pdflatex"
   "mcmthesis.cls" 1769700506 10634 6ea78ec4c54414ca42f3c13d58a5de3d ""
   (generated)
   "mcmthesis-demo.aux"
