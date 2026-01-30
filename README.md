@@ -1,3 +1,16 @@
+# 重新拉取步骤：
+```
+git add .
+git commit -m "保存我当前进度，准备同步队友代码"
+git pull origin main
+```
+
+|情况|结果|你需要做什么|
+|---|---|---|
+|最顺利|队友改了 A 文件，你改了 B 文件|无需操作。Git 会自动把 A 文件下载到你的文件夹里|
+|自动合并|你们改了同一个文件，但不是同一行|输入:wq退出。会弹出Vim黑色界面（合并信息），直接退出即可|
+|发生冲突|你们俩改了同一文件的同一行|手动解决。VS Code 会把冲突的地方标红，你需要选一个（或两个都留），然后重新 add 和 commit|
+
 # The `mcmthesis` Class
 
 This class is designed for the MCM/ICM.
